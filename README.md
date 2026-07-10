@@ -1,4 +1,4 @@
-# Trabalho 4 - Coordenação, Tempo e Acordo Distribuído
+# Trabalho  - Coordenação, Tempo e Acordo Distribuído
 
 **Universidade Federal do Ceará (UFC) - Campus Quixadá** **Disciplina:** Sistemas Distribuídos (QXD0043)  
 **Professor:** Rafael Braga  
